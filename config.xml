@@ -10,7 +10,12 @@
     <name>[Snow Bump]</name>
 
     <description>
-        Ann app made using Scratch, Phonegap, github, and PhoneGap
+        2D arcade style game with simple graphics and controls. Defend your antarctic home from falling ice blocks to get points. Every five points earned gets you a chance win a powerup!                                               
+        
+        Features:
+          - 2D arcade styled graphics  
+          - Simple Touch Controls 
+          - No Ads or In-App Purchases
     </description>
 
     <author href="http://scratch.mit.edu/users/furrypenguinplays" email="furrypenguinplaysmc@gmail.com">
